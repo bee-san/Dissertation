@@ -1,3 +1,5 @@
+[![Discord](https://img.shields.io/discord/754001738184392704?logo=discord&label=Discord)](https://discord.skerritt.blog)
+
 This is all the stuff for my disseration. Titled:
 > "Creating a Python framework to teach year 7's how autonomous vehicles work using reinforcement learning"
 None of the work created here belongs to me. As it is a dissertation, all work and content produced here is for the University of Liverpool.
